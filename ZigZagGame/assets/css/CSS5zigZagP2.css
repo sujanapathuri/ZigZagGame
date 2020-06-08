@@ -1,0 +1,86 @@
+.panda{
+width: 300px;
+height: 300px;
+display: inline-block;
+margin-top:  20px;
+  margin-left: 20px;
+  margin-right: auto;
+  border: 10px solid;
+
+ 
+
+}
+.images{
+	text-align: center;
+
+
+}
+
+
+body {
+	background-color: #DCDCDC;
+	margin: 0;
+	font-family: "Montserrat", "Avenir";
+}
+
+#stripe {
+	background: white;
+	height: 30px;
+	text-align: center;
+	color: black;
+}
+
+h1 {
+	text-align: center;
+	line-height: 1.1;
+	font-weight: normal;
+	color: white;
+	background: steelblue;
+	margin: 0;
+	text-transform: uppercase;
+	padding: 20px 0;
+}
+
+button {
+	border: none;
+	background: none;
+	
+	height: 100%;
+	font-weight: 700;
+	color: steelblue;
+	letter-spacing: 0.5px;
+	font-size: inherit;
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	outline: none;
+	margin-left: 20px;
+	
+}
+
+button:hover {
+	color: white;
+	background: steelblue;
+}
+
+#message {
+	display: inline-block;
+	width: 15%;
+	margin-left: 20px;
+	background-color:  yellow;
+	outline:
+}
+.bottom{
+	text-align: center;
+	background-color: darkslategray;
+	color: white;
+	height: 100%;
+	font-size: 30px;
+	margin-top: 20px;
+}   
+
+.score1{
+	color: steelblue;
+	font-size: 20px;
+	font-weight: 550;
+}
